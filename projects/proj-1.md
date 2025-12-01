@@ -1,19 +1,9 @@
 ---
 layout: post
-title: 'zDB: bacterial comparative genomics made easy'
+title: 'Project One'
 ---
-zDB was developed to simplify and unify genome analysis by integrating multiple tools for annotation, orthology detection, and phylogenetic inference into a single platform. It enables researchers to identify orthologs, infer species and gene phylogenies, and enrich results with functional annotations such as protein domains and metabolic pathways. The web interface facilitates searching, genome comparison, and visualization of results, making complex genomic analyses more accessible. Its design supports both bioinformaticians and laboratory researchers in exploring and comparing genomic data efficiently.
+Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
 
-##### Peer-reviewed publication
+{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
 
-
-Marquis, B. ; Pillonel, T. ; Carrara, A. ; Bertelli, C. : zDB: bacterial comparative genomics made easy. In: Msystems 9 (2024), Nr. 7, S. e00473–24 [https://doi.org/10.1128/msystems.00473-24](https://doi.org/10.1128/msystems.00473-24)
-
-
-##### Github link
-
-[https://github.com/metagenlab/zDB](https://github.com/metagenlab/zDB)
-
-##### My contribution
-
-I was involved in integrating the BLAST search into the backend and in shaping the visualization components of the frontend. I also finalized the user documentation to facilitate navigation of the platform and the interpretation of its interface.
+{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}

@@ -1,23 +1,11 @@
-<style>
-  /* Image hover effect */
-  .project-container img:hover {
-    opacity: 0.7;
-    transition: opacity 0.3s;
-    cursor: pointer;
-  }
-</style>
-
-<section style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<section>
   {% for project in site.data.settings.projects %}
-    <div class="card-body project-container" style="flex: 0 0 45%; max-width: 320px; text-align: center;">
-      <a href="{{ site.github.url }}/projects/{{ project.url }}" style="text-decoration: none; color: inherit;">
-        <img src="{{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.png"
-             alt="Project Thumbnail"
-             style="width:100%; height:220px; object-fit:contain; display:block; border: 2px solid black; background-color: #f8f8f8;">
-        <!-- Text always visible -->
-        <div style="margin-top: 10px; font-weight: bold;">
-          {{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i>
-        </div>
+    <div class="card-body mx-5 mb-5 project-container">
+      <a href="{{ site.github.url }}/projects/{{ project.url }}">
+      <img src="{{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.jpg" class="card-img-top image" alt="...">
+      <div class="overlay">
+        <div class="text">{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></div>
+      </div>
       </a>
     </div>
   {% endfor %}
