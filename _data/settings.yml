@@ -23,7 +23,7 @@ projects:
 
 social:
 - {icon: 'github',    link: 'https://github.com/CarraraAlessia'}
-- {icon: 'linkedin',  link: 'www.linkedin.com/in/alessia-carrara-070496263'}
+- {icon: 'linkedin',  link: 'https://www.linkedin.com/in/alessia-carrara-070496263/'}
 - {icon: 'envelope',  link: 'mailto:mailto:alessia.carrara@chuv.ch'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
