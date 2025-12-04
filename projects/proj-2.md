@@ -2,6 +2,7 @@
 layout: post
 title: 'Association of pathogenic determinants of Fusobacterium necrophorum with bacteremia, and Lemierre’s syndrome'
 ---
+Published in 2024
 
 In this retrospective and multicentric study, 70 *Fusobacterium necrophorum* strains from either localized infections or bacteremia/Lemierre’s syndrome were analyzed to identify genetic factors linked to disease severity. Using comparative genomics, phylogeny, genomic islands, virulence factor orthogroups were examined, and a genome-wide association study was conducted. The analyses revealed two genetically distinct clades, one enriched in bacteremic isolates, and identified a frameshift variant of the key virulence gene *lktA* associated with invasive disease. The GWAS also highlighted three additional orthogroups linked to bacteremia, providing candidates for future functional investigations.
 

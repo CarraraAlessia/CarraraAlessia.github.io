@@ -2,6 +2,7 @@
 layout: post
 title: 'The PHAPRO toolbox'
 ---
+Ongoing
 
 The rise of antimicrobial resistance and the shortage of new antibiotics have renewed interest in phage therapy, which has shown promising results in clinical studies. However, standardized methods are still needed to evaluate phage preparations and ensure the quality of phage-based medical products. To address this, we developed the PHAPRO toolbox, a bioinformatics framework designed to support the creation of a clean phage bank and verify the safety of GMP-produced lytic phages.
 
