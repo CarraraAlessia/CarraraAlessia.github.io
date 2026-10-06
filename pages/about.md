@@ -6,9 +6,11 @@ permalink: /about
 
 # About me
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <p>
+<img src="../images/photo_cv2.png"
+     alt="Profile Picture"
+     style="width: 220px; height: auto; float: left; margin: 0 30px 20px 0;">
+
+<p>
 Hi, I'm Alessia, a clinical research scientist with a background in clinical microbiology and data analysis. My work has focused on using biological and clinical data to investigate disease, treatment response and microbial biomarkers across clinical, translational and preclinical research.
 
 <br><br>
@@ -18,37 +20,30 @@ I hold a PhD in Clinical Microbiology from the Lausanne University Hospital (CHU
 <br><br>
 
 I am particularly interested in the intersection of clinical research, biological data and healthcare, and in how data and scientific evidence can be used to answer meaningful questions in medicine.
+</p>
 
-    </p>
-  </div>
-  <div style="flex: 0 0 150px; width:350px;, margin-left: 20px;">
-    <img src="../images/cv_photo.jpg" alt="Profile Picture" style="width:150px; border-radius:0%;">
-  </div>
-</div>
-
+<div style="clear: both;"></div>
 
 <br><br>
-
 
 ###  Interests
 
 <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="../images/probiotics.png" alt="Logo 1" style="width:40px; height:40px;">
-    <span>Probiotics and Microbiota-based therapeutics</span>
-  </div>
+
   <div style="display: flex; align-items: center; gap: 8px;">
     <img src="../images/clinical_trials.png" alt="Logo 2" style="width:40px; height:40px;">
     <strong>Clinical Research & Healthcare Data</strong><br>
     <span>Clinical trials · Observational studies · Clinical and biological data</span>
   </div>
-  
+
   <div style="display: flex; align-items: center; gap: 8px;">
     <img src="../images/microbiota.png" alt="Logo 2" style="width:40px; height:40px;">
-    <strong>Microbiota & Microbiome</strong>
-    <span>Microbiota in health and disease · Microbiota-based therapeutics<span>
+    <strong>Microbiota \& Microbiome</strong><br>
+    <span>Microbiota in health and disease · Microbiota-based therapeutics</span>
   </div>
 
+
+ 
   <div style="display: flex; align-items: center; gap: 8px;">
     <img src="../images/clinical_trials.png" alt="Logo 2" style="width:40px; height:40px;">
     <strong>Clinical Research & Healthcare Data</strong><br>
@@ -66,12 +61,13 @@ I am particularly interested in the intersection of clinical research, biologica
     <strong>Sequencing technologies</strong>
   </div>
   
+  
+
 
 </div>
 
 
 <br><br>
-
 
 
 ### Languages and Tools
