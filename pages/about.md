@@ -9,12 +9,15 @@ permalink: /about
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <p>
-
-Hi, I'm Alessia and I am a bioinformatician exploring how genomics and metagenomics can uncover novel microbial signatures associated with diseases, and how they can support the quality assessment of microbiota-based therapeutics.
+Hi, I'm Alessia, a clinical research scientist with a background in clinical microbiology and data analysis. My work has focused on using biological and clinical data to investigate disease, treatment response and microbial biomarkers across clinical, translational and preclinical research.
 
 <br><br>
 
-I recently completed my PhD under the supervision of Prof. Claire Bertelli and Prof. Gilbert Greub at the Institute of Microbiolgy at the Lausanne University Hospital (CHUV), where I'm still working as a research assistant for the <a href="https://www.chuv.ch/en/microbiologie/imu-home/diagnostics/genomics-and-metagenomics" target="_blank" rel="noopener noreferrer">@metagenlab</a>.
+I hold a PhD in Clinical Microbiology from the Lausanne University Hospital (CHUV), where I worked across clinical trials, observational studies and preclinical research projects, combining scientific analysis with data interpretation and collaboration with multidisciplinary teams.
+
+<br><br>
+
+I am particularly interested in the intersection of clinical research, biological data and healthcare, and in how data and scientific evidence can be used to answer meaningful questions in medicine.
 
     </p>
   </div>
@@ -34,26 +37,33 @@ I recently completed my PhD under the supervision of Prof. Claire Bertelli and P
     <img src="../images/probiotics.png" alt="Logo 1" style="width:40px; height:40px;">
     <span>Probiotics and Microbiota-based therapeutics</span>
   </div>
-
   <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="../images/phage.png" alt="Logo 3" style="width:40px; height:40px;">
-    <span>Phage therapy</span>
+    <img src="../images/clinical_trials.png" alt="Logo 2" style="width:40px; height:40px;">
+    <strong>Clinical Research & Healthcare Data</strong><br>
+    <span>Clinical trials · Observational studies · Clinical and biological data</span>
   </div>
-
   
   <div style="display: flex; align-items: center; gap: 8px;">
     <img src="../images/microbiota.png" alt="Logo 2" style="width:40px; height:40px;">
-    <span>Microbiota in health and disease</span>
+    <strong>Microbiota & Microbiome</strong>
+    <span>Microbiota in health and disease · Microbiota-based therapeutics<span>
   </div>
 
   <div style="display: flex; align-items: center; gap: 8px;">
     <img src="../images/clinical_trials.png" alt="Logo 2" style="width:40px; height:40px;">
-    <span>Clinical trials</span>
+    <strong>Clinical Research & Healthcare Data</strong><br>
+    <span>Clinical trials · Observational studies · Clinical and biological data</span>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <img src="../images/phage.png" alt="Logo 3" style="width:40px; height:40px;">
+    <strong>Phage Therapy</strong><br>
+    <span>Phage biology · Personalized phage treatment · Therapeutic applications</span>
   </div>
     
   <div style="display: flex; align-items: center; gap: 8px;">
     <img src="../images/dna.png" alt="Logo 2" style="width:40px; height:40px;">
-    <span>Sequencing technologies</span>
+    <strong>Sequencing technologies</strong>
   </div>
   
 
